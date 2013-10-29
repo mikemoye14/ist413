@@ -2,6 +2,7 @@ IST 413 : Android Based QR Code Reader for the Penn State York Campus
 ======
 
 <strong>Project Title:</strong> 	Penn State Directions Android Mobile Application Version 1.0
+
 <strong>Prepared by:</strong> Class of IST 413 
 
 <strong>Date:</strong> September 19, 2013
